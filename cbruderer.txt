@@ -1,7 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 upps I just deleted your stuff.
 =======
 
 Deleted by ks.
 
 >>>>>>> ce0aac22b4d088370a8b589bd5b0164a64b08b70
+=======
+Deleted by ks.
+
+Damn, I wanted to delete Claudio's file.
+>>>>>>> 3f07aabeab4a8c5e7ee489b0a52763fcfabbd513
