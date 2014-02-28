@@ -1,2 +1,4 @@
 This is Adel's file
 This is a new line in Adel's file
+hello adel have a nice day
+Testing conflict with etters
