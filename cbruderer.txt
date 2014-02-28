@@ -1,13 +1,9 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 This is file is getting hard to edit
 
 We try anyhow!
-=======
 Just another file in this messy repository.
 
->>>>>>> 5d4e48b4db10914a0e9c1e6d7588ab32c0ea1ae0
-=======
 
 This is file is getting hard to edit
 
@@ -15,4 +11,3 @@ ok, then I guess I'll come mess with your file ;) chihway
 Just another file in this messy repository.
 
 
->>>>>>> 4e19b4c9e241a96b86fd4b4c1c571d144e804a73
