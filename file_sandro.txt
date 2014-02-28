@@ -1,2 +1,7 @@
 Hi, how are you?
+<<<<<<< HEAD
 Gut, danke! Und du?
+=======
+
+I am fine. How are you?
+>>>>>>> 373b8f8aeeac1bf3fc32851e90f3be6373bb1520
