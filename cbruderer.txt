@@ -1,3 +1,4 @@
+
 This is file is getting hard to edit
 
 We try anyhow!
@@ -12,12 +13,17 @@ Just another file in this messy repository.
 
 Some people just like to edit my file.
 
+stop messing with my text in Simon's file! chihway
+
 Dont hate the player, hate the game.
 
 <<<<<<< HEAD
 It's just fn
-=======
+
 Yeah, but they leave a messy file behind!!
+
+
+=======
 >>>>>>> 9fd713299183eb108f126821f4fb10b707a890a3
 
 That's what I'm talking about! Get your merging straight!
