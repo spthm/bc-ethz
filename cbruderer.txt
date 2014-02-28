@@ -1,7 +1,16 @@
+<<<<<<< HEAD
+This is file is getting hard to edit
+
+We try anyhow!
+Just another file in this messy repository.
+
 
 This is file is getting hard to edit
 
 ok, then I guess I'll come mess with your file ;) chihway
 Just another file in this messy repository.
 
+
 Some people just like to edit my file.
+
+Dont hate the player, hate the game.
