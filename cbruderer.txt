@@ -17,6 +17,7 @@ stop messing with my text in Simon's file! chihway
 
 Dont hate the player, hate the game.
 
+<<<<<<< HEAD
 It's just fn
 
 Yeah, but they leave a messy file behind!!
