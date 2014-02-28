@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is file is getting hard to edit
 
 We try anyhow!
@@ -14,3 +13,5 @@ Just another file in this messy repository.
 Some people just like to edit my file.
 
 Dont hate the player, hate the game.
+
+Yeah, but they leave a messy file behind!!
