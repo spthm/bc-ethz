@@ -23,7 +23,3 @@ It's just fn
 Yeah, but they leave a messy file behind!!
 
 
-=======
->>>>>>> 9fd713299183eb108f126821f4fb10b707a890a3
-
-That's what I'm talking about! Get your merging straight!
