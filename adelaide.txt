@@ -1,3 +1,5 @@
 This is Adel's file
 This is a new line in Adel's file
-Testing conflict with etters
+hello adel have a nice day
+Testing conflict with ettersI am ahead of the remote branch
+I am ahead of the remote branch 2
