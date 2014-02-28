@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 upps I just deleted your stuff.
+=======
+
+Deleted by ks.
+
+>>>>>>> ce0aac22b4d088370a8b589bd5b0164a64b08b70
